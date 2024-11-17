@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/869350636452476303/7680a110a6d14fe9833824268e08f94b/artifacts
+end_time: 1731854920777
+entry_point_name: ''
+experiment_id: '869350636452476303'
+lifecycle_stage: active
+run_id: 7680a110a6d14fe9833824268e08f94b
+run_name: gaudy-fox-647
+run_uuid: 7680a110a6d14fe9833824268e08f94b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731854665077
+status: 4
+tags: []
+user_id: alexa

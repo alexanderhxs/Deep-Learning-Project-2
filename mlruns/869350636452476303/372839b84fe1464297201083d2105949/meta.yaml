@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/869350636452476303/372839b84fe1464297201083d2105949/artifacts
+end_time: 1731854637493
+entry_point_name: ''
+experiment_id: '869350636452476303'
+lifecycle_stage: active
+run_id: 372839b84fe1464297201083d2105949
+run_name: angry-squirrel-750
+run_uuid: 372839b84fe1464297201083d2105949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731847189934
+status: 3
+tags: []
+user_id: alexa

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/869350636452476303/8437dc0e677d4ce7936d7efb0d77f426/artifacts
+end_time: 1731857730275
+entry_point_name: ''
+experiment_id: '869350636452476303'
+lifecycle_stage: active
+run_id: 8437dc0e677d4ce7936d7efb0d77f426
+run_name: inquisitive-colt-597
+run_uuid: 8437dc0e677d4ce7936d7efb0d77f426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731855282703
+status: 4
+tags: []
+user_id: alexa

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/869350636452476303
+creation_time: 1731847189842
+experiment_id: '869350636452476303'
+last_update_time: 1731847189842
+lifecycle_stage: active
+name: CNNClassifier

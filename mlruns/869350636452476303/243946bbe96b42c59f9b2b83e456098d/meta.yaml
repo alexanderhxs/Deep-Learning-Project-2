@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/869350636452476303/243946bbe96b42c59f9b2b83e456098d/artifacts
+end_time: 1731855168012
+entry_point_name: ''
+experiment_id: '869350636452476303'
+lifecycle_stage: active
+run_id: 243946bbe96b42c59f9b2b83e456098d
+run_name: delicate-sow-693
+run_uuid: 243946bbe96b42c59f9b2b83e456098d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731855115062
+status: 4
+tags: []
+user_id: alexa
