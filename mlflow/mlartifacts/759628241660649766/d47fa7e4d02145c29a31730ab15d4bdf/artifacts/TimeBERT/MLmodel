@@ -1,0 +1,21 @@
+artifact_path: TimeBERT
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.1
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.4.1+cpu
+mlflow_version: 2.16.2
+model_size_bytes: 17327817
+model_uuid: ad47f12ed3be4350b2fc38a4881322ca
+run_id: d47fa7e4d02145c29a31730ab15d4bdf
+utc_time_created: '2024-11-20 17:43:49.575249'

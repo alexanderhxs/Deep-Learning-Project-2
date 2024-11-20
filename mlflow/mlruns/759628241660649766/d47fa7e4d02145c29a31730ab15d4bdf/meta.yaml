@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/d47fa7e4d02145c29a31730ab15d4bdf/artifacts
+deleted_time: 1732124788339
+end_time: 1732124637908
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: d47fa7e4d02145c29a31730ab15d4bdf
+run_name: clumsy-whale-758
+run_uuid: d47fa7e4d02145c29a31730ab15d4bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732124629530
+status: 3
+tags: []
+user_id: alexa

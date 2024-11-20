@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/a4b369bf883e41f4b0118124d3b0b14e/artifacts
+deleted_time: 1732036728640
+end_time: 1732036716518
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: a4b369bf883e41f4b0118124d3b0b14e
+run_name: delightful-mink-112
+run_uuid: a4b369bf883e41f4b0118124d3b0b14e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732036681183
+status: 3
+tags: []
+user_id: alexa

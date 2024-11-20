@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/a53d323a0ee943f88bbbff59bd744158/artifacts
+deleted_time: 1732125063143
+end_time: null
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: a53d323a0ee943f88bbbff59bd744158
+run_name: monumental-asp-64
+run_uuid: a53d323a0ee943f88bbbff59bd744158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732125026090
+status: 1
+tags: []
+user_id: alexa

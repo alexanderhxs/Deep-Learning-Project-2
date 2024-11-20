@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/f04f939385984ef4bcb51785fe11574e/artifacts
+deleted_time: 1732124013806
+end_time: 1732124003007
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: f04f939385984ef4bcb51785fe11574e
+run_name: worried-shad-484
+run_uuid: f04f939385984ef4bcb51785fe11574e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732123995325
+status: 3
+tags: []
+user_id: alexa

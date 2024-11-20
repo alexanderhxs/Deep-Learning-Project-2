@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/851caa32b5954e1aad710a268e4fd496/artifacts
+deleted_time: 1732123864123
+end_time: 1732123681176
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 851caa32b5954e1aad710a268e4fd496
+run_name: honorable-stag-579
+run_uuid: 851caa32b5954e1aad710a268e4fd496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732123673031
+status: 3
+tags: []
+user_id: alexa

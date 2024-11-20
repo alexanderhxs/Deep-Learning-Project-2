@@ -1,0 +1,21 @@
+artifact_path: GRUModel
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.1
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.4.1+cpu
+mlflow_version: 2.16.2
+model_size_bytes: 26532
+model_uuid: 170eccdbd257499e961cfbc4b7daeb00
+run_id: 0eee4be59cb042b7b1aee3bbe4b6b6c6
+utc_time_created: '2024-11-19 17:35:44.713624'

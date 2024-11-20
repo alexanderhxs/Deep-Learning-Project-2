@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/09faaee204cc44a093722f85a68a7ba1/artifacts
+deleted_time: 1732106951748
+end_time: 1732037823576
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 09faaee204cc44a093722f85a68a7ba1
+run_name: indecisive-bat-153
+run_uuid: 09faaee204cc44a093722f85a68a7ba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732037818035
+status: 3
+tags: []
+user_id: alexa

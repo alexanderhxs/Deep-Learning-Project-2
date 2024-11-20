@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/0eee4be59cb042b7b1aee3bbe4b6b6c6/artifacts
+deleted_time: 1732106951757
+end_time: 1732037750100
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 0eee4be59cb042b7b1aee3bbe4b6b6c6
+run_name: crawling-conch-574
+run_uuid: 0eee4be59cb042b7b1aee3bbe4b6b6c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732037744659
+status: 3
+tags: []
+user_id: alexa

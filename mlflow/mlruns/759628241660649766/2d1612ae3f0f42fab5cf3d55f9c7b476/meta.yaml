@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/2d1612ae3f0f42fab5cf3d55f9c7b476/artifacts
+deleted_time: 1732123864123
+end_time: 1732123201341
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 2d1612ae3f0f42fab5cf3d55f9c7b476
+run_name: powerful-lynx-607
+run_uuid: 2d1612ae3f0f42fab5cf3d55f9c7b476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732123183448
+status: 3
+tags: []
+user_id: alexa

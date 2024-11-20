@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/716ca112034a4cf0beb5d80377c8d5ca/artifacts
+deleted_time: 1732106951718
+end_time: 1732106441085
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 716ca112034a4cf0beb5d80377c8d5ca
+run_name: aged-kite-113
+run_uuid: 716ca112034a4cf0beb5d80377c8d5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732105927468
+status: 3
+tags: []
+user_id: alexa

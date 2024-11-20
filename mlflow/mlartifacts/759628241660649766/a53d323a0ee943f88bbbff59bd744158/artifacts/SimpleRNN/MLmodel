@@ -1,0 +1,21 @@
+artifact_path: SimpleRNN
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.1
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.4.1+cpu
+mlflow_version: 2.16.2
+model_size_bytes: 234340
+model_uuid: 3bedd309fce24fd88a29c8fa5cfe2a33
+run_id: a53d323a0ee943f88bbbff59bd744158
+utc_time_created: '2024-11-20 17:50:26.127702'

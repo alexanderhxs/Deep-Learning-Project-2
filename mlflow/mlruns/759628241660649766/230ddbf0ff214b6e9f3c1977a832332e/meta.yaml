@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/230ddbf0ff214b6e9f3c1977a832332e/artifacts
+deleted_time: 1732123086389
+end_time: null
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 230ddbf0ff214b6e9f3c1977a832332e
+run_name: lyrical-calf-643
+run_uuid: 230ddbf0ff214b6e9f3c1977a832332e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732108061449
+status: 1
+tags: []
+user_id: alexa

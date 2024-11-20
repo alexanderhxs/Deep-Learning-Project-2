@@ -1,0 +1,16 @@
+artifact_uri: /mlflowartifacts:/869350636452476303/1d1f07b776804bc6a068c804cb77b32e/artifacts
+deleted_time: 1732035698582
+end_time: null
+entry_point_name: ''
+experiment_id: '869350636452476303'
+lifecycle_stage: deleted
+run_id: 1d1f07b776804bc6a068c804cb77b32e
+run_name: thundering-vole-11
+run_uuid: 1d1f07b776804bc6a068c804cb77b32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732035669346
+status: 1
+tags: []
+user_id: alexa

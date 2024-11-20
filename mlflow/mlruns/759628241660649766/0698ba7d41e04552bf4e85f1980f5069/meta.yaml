@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/0698ba7d41e04552bf4e85f1980f5069/artifacts
+deleted_time: 1732100479755
+end_time: null
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 0698ba7d41e04552bf4e85f1980f5069
+run_name: defiant-shrimp-549
+run_uuid: 0698ba7d41e04552bf4e85f1980f5069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732038138706
+status: 1
+tags: []
+user_id: alexa

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/f6c5ed47fc7848b5bc5ce712e7ee14b7/artifacts
+deleted_time: 1732123864123
+end_time: 1732123598938
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: f6c5ed47fc7848b5bc5ce712e7ee14b7
+run_name: flawless-midge-714
+run_uuid: f6c5ed47fc7848b5bc5ce712e7ee14b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732123591392
+status: 3
+tags: []
+user_id: alexa

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/8f077ee838054eb9a14429662b5f001d/artifacts
+deleted_time: 1732107933873
+end_time: 1732107426410
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 8f077ee838054eb9a14429662b5f001d
+run_name: angry-gnat-836
+run_uuid: 8f077ee838054eb9a14429662b5f001d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732107405763
+status: 3
+tags: []
+user_id: alexa

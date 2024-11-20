@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/759628241660649766/44808a53ed0240699b803910e488a408/artifacts
+deleted_time: 1732106951717
+end_time: 1732106586156
+entry_point_name: ''
+experiment_id: '759628241660649766'
+lifecycle_stage: deleted
+run_id: 44808a53ed0240699b803910e488a408
+run_name: bittersweet-crow-759
+run_uuid: 44808a53ed0240699b803910e488a408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732106569826
+status: 3
+tags: []
+user_id: alexa
